@@ -1,0 +1,6 @@
+[submodule "perception-aware-msf"]
+	path = perception-aware-msf
+	url = git@github.com:pokuk76/perception-aware-msf.git
+[submodule "pyramid-msf"]
+	path = pyramid-msf
+	url = git@github.com:pokuk76/pyramid-msf.git
